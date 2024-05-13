@@ -6,7 +6,7 @@
 
 5. Vi börjar med att ha Några presentationsrader i markdown och vår setup för database, gärna när vi konverterar csv filen till en .db fil.
 6. Sen redovisar vi när vi bekantar oss med programvaran och databasen.
-7. Sen redovisar vi målsättningen med vår undersökning samt dess målgrupp.
+7. Sen redovisar vi målsättningen med vår undersökning samt dess målgrupp. (denna kan vi efterkonstruera)
 8. Sedan går vi in i vår kod och våra resultat, detta får gärna vara flera stycken med kod och visualiseringar.
 9. Frågestund. (Vad kan vara orsaker till våra resultat)
 10. Sedan avrundar vi med att ta fram positiva aspekter i det vi hittat (T.ex ta upp hur relativt få som dör av krig och våld)
